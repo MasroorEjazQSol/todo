@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "ticket-db",
+      "namespace": "ticket",
+      "script": "node",
+      "args": "index.js",
+      "out_file": "NULL",
+      "error_file": "NULL"
+    }
+    
+    
+  ]
+}

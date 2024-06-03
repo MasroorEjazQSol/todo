@@ -1,0 +1,33 @@
+Mongo has connected succesfully: 11/6/2022 @ 14:27:39
+Mongo has connected succesfully: 11/6/2022 @ 14:28:55
+Mongo has connected succesfully: 11/6/2022 @ 14:30:1
+Mongo has connected succesfully: 11/6/2022 @ 14:30:13
+Mongo has connected succesfully: 11/6/2022 @ 14:30:45
+Mongo has connected succesfully: 11/6/2022 @ 14:33:40
+Mongo has connected succesfully: 11/6/2022 @ 14:34:2
+Mongo has connected succesfully: 11/6/2022 @ 14:58:16
+Mongo has connected succesfully: 11/6/2022 @ 14:58:56
+Mongo has connected succesfully: 11/6/2022 @ 15:0:56
+Mongo has connected succesfully: 11/6/2022 @ 15:1:30
+Mongo has connected succesfully: 11/6/2022 @ 15:3:45
+Mongo has connected succesfully PORT: 390011/6/2022 @ 15:4:39
+Mongo has connected succesfully PORT: 390011/6/2022 @ 15:4:52
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 15:5:30
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 15:5:34
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 15:7:42
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 15:13:14
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 15:14:4
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 15:24:7
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 15:37:12
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 21:57:37
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 21:59:15
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 21:59:58
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 22:0:28
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 22:1:27
+Mongo has connected succesfully PORT: 3900 11/6/2022 @ 22:1:47
+Mongo has connected succesfully PORT: 3900 19/6/2022 @ 6:9:38
+Mongo has connected succesfully PORT: 3900 19/6/2022 @ 6:11:24
+Mongo has connected succesfully PORT: 3900 19/6/2022 @ 6:11:55
+Mongo has connected succesfully PORT: 3900 19/6/2022 @ 6:19:57
+Mongo has connected succesfully PORT: 3900 19/6/2022 @ 6:20:17
+Mongo has connected succesfully: 19/6/2022 @ 7:16:46
