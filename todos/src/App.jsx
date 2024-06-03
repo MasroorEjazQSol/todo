@@ -52,6 +52,11 @@ class App extends Component {
     if (this.state.newTask.trim() !== '') {
       let newTasks=this.state.newTask.trim();
 
+      if (this.state.newTask.trim()=== "") {
+        // String is not empty
+        return;
+      } 
+
         const NewTaskAdd =
         {
             "task_name": newTasks
